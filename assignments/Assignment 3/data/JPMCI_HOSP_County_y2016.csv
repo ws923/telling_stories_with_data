@@ -1,0 +1,17 @@
+County FIPS code,County name,State,Average out-of-pocket healthcare spending,Average out-of-pocket healthcare burden (%),Average estimated annual gross income,Average age,Sample size,State Medicaid expansion status as of 2016 (1=Expanded, 0=Did not expand),County uninsurance rate in 2016 (%),Percent change in out-of-pocket healthcare spending (2015-2016),Percentage point change of out-of-pocket healthcare burden (2015-2016),Health Outcomes
+34003,Bergen,NJ,781,1,110858,44,12561,1,3,3.4,0.05,,#N/A
+34005,Burlington,NJ,633,0.9,84649,43,521,1,3,2.3,-0.31,,
+34007,Camden,NJ,462,0.9,70306,42,159,1,5,19.7,0.06,,
+34013,Essex,NJ,903,1.1,110828,44,7576,1,6,5.5,0.06,,
+34017,Hudson,NJ,622,1,85885,40,7228,1,8,4,0.06,,
+34019,Hunterdon,NJ,1106,1.4,119786,46,332,1,2,6.1,0.13,,
+34021,Mercer,NJ,717,1,101021,44,1736,1,5,6.1,0.04,,
+34023,Middlesex,NJ,613,1,90661,44,6656,1,4,1.3,0.03,,
+34025,Monmouth,NJ,769,1,112933,44,5642,1,3,4.4,0.05,,
+34027,Morris,NJ,911,1,124602,45,5738,1,2,2.7,0.03,,
+34029,Ocean,NJ,650,1.1,80658,43,2288,1,4,2.2,0.06,,
+34031,Passaic,NJ,613,1.1,77998,43,5309,1,7,3.2,0.09,,
+34035,Somerset,NJ,778,0.9,122279,43,2022,1,3,-2.4,-0.02,,
+34037,Sussex,NJ,648,1.1,88524,45,2891,1,2,1.8,0,,
+34039,Union,NJ,801,1,109431,43,4725,1,5,6.2,0.1,,
+34041,Warren,NJ,701,1.1,85637,45,517,1,3,8.8,0.03,,
